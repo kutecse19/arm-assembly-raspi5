@@ -1,0 +1,6 @@
+arm_64bit=1
+kernel_address=0x80000
+enable_jtag_gpio=1
+kernel=kernel_2712.img
+framebuffer_depth=32
+
